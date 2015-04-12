@@ -1,6 +1,7 @@
 /lib
 /classes
 /checkouts
+/.c9
 pom.xml
 pom.xml.asc
 *.class
